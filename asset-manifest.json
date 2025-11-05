@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lucy/static/css/main.e6c13ad2.css",
+    "main.js": "/lucy/static/js/main.0fceb416.js",
+    "static/js/453.9217ed51.chunk.js": "/lucy/static/js/453.9217ed51.chunk.js",
+    "index.html": "/lucy/index.html",
+    "main.e6c13ad2.css.map": "/lucy/static/css/main.e6c13ad2.css.map",
+    "main.0fceb416.js.map": "/lucy/static/js/main.0fceb416.js.map",
+    "453.9217ed51.chunk.js.map": "/lucy/static/js/453.9217ed51.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.0fceb416.js"
+  ]
+}
